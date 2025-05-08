@@ -116,6 +116,10 @@ body {
 
 
 *****************************************************************************************/
+.sidebar {
+  position: sticky;
+  top: 10px; /* Adjust this if you want some spacing from the top */
+}
 .nav-side {
   font-size: 24px;
   font-size: 1.5rem;
